@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ED9E1AEE-BEA3-B1AB-875E-C54876554852}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DetectObs.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.postprocessing@3.0.1/PostProcessing/Runtime/Effects/AmbientOcclusion.cs" Line="17" Column="22" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="133" Column="1" />
+      <File FileName="Assets/Scripts/DetectObs.cs" Line="30" Column="30" />
+      <File FileName="Assets/Scripts/RigidbodyFirstPersonController.cs" Line="26" Column="14" />
+      <File FileName="Library/PackageCache/com.unity.postprocessing@3.0.1/PostProcessing/Runtime/Effects/MultiScaleVO.cs" Line="46" Column="1" />
+      <File FileName="Assets/Scripts/LookAtCamera.cs" Line="13" Column="69" />
+      <File FileName="Assets/MainMenu.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/DetectCrouch.cs" Line="18" Column="75" />
+      <File FileName="Assets/Scripts/CustomTag.cs" Line="1" Column="1" />
+      <File FileName="Assets/EndMenuwu.cs" Line="22" Column="23" />
+      <File FileName="Assets/raphael.cs" Line="16" Column="48" />
+      <File FileName="Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TextMeshProUGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/plsnokill.cs" Line="11" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
